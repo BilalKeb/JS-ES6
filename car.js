@@ -31,3 +31,5 @@ bentley.accelerate(180)
 console.log(bentley); 
 
 
+
+// Benoit  HELP ME ,j'ai besoin de ton aider , on m'a aider  a faire la partie 1 de Car du coup j'ai beugé sur la TV, je souhaiterai le refaire demains avec toi  car  je ne maitrise pas le sujet ES6.
